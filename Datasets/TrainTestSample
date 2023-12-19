@@ -1,1 +1,25 @@
+train.csv:
 
+Purpose: This dataset is typically used for training predictive models.
+Key Points:
+Each row represents the sales of a specific item in a particular store on a given date.
+Used for training various forecasting models, including time series and regression.
+
+test.csv:
+
+Purpose: This dataset is usually used for testing the performance of trained models.
+Key Points:
+Predictions are made for this period using trained models to evaluate their forecasting accuracy.
+Helps assess how well the models generalize to new, unseen data.
+
+sample_submission.csv:
+
+Purpose: This dataset serves as a template or format for submitting predictions.
+Key Points:
+Predictions made on the test dataset are often formatted to match this structure for submission in competitions or evaluation.
+Ensures predictions are organized correctly for evaluation and comparison.
+
+These datasets collectively form the basis for training, testing, and evaluating predictive models to 
+forecast sales using various quantitative methods like time series analysis and regression. 
+The train.csv data is used to train the models, test.csv is used to assess their performance, 
+and sample_submission.csv provides the expected format for submitting predictions.
