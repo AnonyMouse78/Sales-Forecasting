@@ -30,5 +30,3 @@ This project aims to forecast product sales utilizing various quantitative metho
 
 - **Supervised Machine Learning:**
   - Feature engineering and selection for Linear Regression model.
-
-Feel free to expand upon this README by adding more details or instructions based on your project's specifics!
